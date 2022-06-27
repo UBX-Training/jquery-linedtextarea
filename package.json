@@ -1,0 +1,9 @@
+{
+	"name": "jquery-linedtextarea",
+	"version": "1.0.0",
+	"description": "The jQuery LinedTextArea plugin converts the normal textarea element into a scrollable content-editable area with line numbers.",
+	"devDependencies": {
+	},
+	"dependencies": {
+	}
+}
